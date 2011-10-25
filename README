@@ -1,0 +1,5 @@
+Spike showing how to use Capybara and HTTP basic authentication together.
+
+# bundle install
+# ruby -rubygems basic_auth.rb # start sinatra app with basic auth
+# cucumber
